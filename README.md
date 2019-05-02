@@ -1,3 +1,0 @@
-## SElenium
-
-http://selenium-release.storage.googleapis.com/index.html
